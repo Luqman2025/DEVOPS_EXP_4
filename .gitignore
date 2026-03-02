@@ -1,0 +1,8 @@
+# Never upload SSH keys
+id_ed25519*
+*.pem
+.ssh/
+
+# Python
+__pycache__/
+*.pyc
